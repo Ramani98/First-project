@@ -1,0 +1,8 @@
+C:\Users\ramani\Documents\Visual Studio 2010\Projects\Website\Website\bin\Website.dll
+C:\Users\ramani\Documents\Visual Studio 2010\Projects\Website\Website\bin\Website.pdb
+C:\Users\ramani\Documents\Visual Studio 2010\Projects\Website\Website\bin\Website.xml
+C:\Users\ramani\Documents\Visual Studio 2010\Projects\Website\Website\obj\Debug\Website.Resources.resources
+C:\Users\ramani\Documents\Visual Studio 2010\Projects\Website\Website\obj\Debug\BioPhenix.vbproj.GenerateResource.Cache
+C:\Users\ramani\Documents\Visual Studio 2010\Projects\Website\Website\obj\Debug\Website.dll
+C:\Users\ramani\Documents\Visual Studio 2010\Projects\Website\Website\obj\Debug\Website.xml
+C:\Users\ramani\Documents\Visual Studio 2010\Projects\Website\Website\obj\Debug\Website.pdb

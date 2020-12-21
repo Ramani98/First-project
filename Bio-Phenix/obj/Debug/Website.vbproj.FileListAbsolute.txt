@@ -1,0 +1,8 @@
+c:\users\ramani\documents\visual studio 2010\Projects\Website\Website\bin\Website.dll
+c:\users\ramani\documents\visual studio 2010\Projects\Website\Website\bin\Website.pdb
+c:\users\ramani\documents\visual studio 2010\Projects\Website\Website\bin\Website.xml
+c:\users\ramani\documents\visual studio 2010\Projects\Website\Website\obj\Debug\Website.Resources.resources
+c:\users\ramani\documents\visual studio 2010\Projects\Website\Website\obj\Debug\Website.vbproj.GenerateResource.Cache
+c:\users\ramani\documents\visual studio 2010\Projects\Website\Website\obj\Debug\Website.dll
+c:\users\ramani\documents\visual studio 2010\Projects\Website\Website\obj\Debug\Website.xml
+c:\users\ramani\documents\visual studio 2010\Projects\Website\Website\obj\Debug\Website.pdb
